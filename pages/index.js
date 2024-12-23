@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Renata, Te amo!</h1>
+    return <h1>Renata, Te amo! S2</h1>
 
 }
 
